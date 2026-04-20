@@ -8,6 +8,8 @@
 -->
 # Small change on main branch
 
+# Small change in README
+
 # Deploy to Azure
 
 _Create two deployment workflows using GitHub Actions and Microsoft Azure._
